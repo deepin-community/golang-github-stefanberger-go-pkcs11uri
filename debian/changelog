@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-stefanberger-go-pkcs11uri (0.0~git20201008.78d3cae-2) unstable; urgency=medium
 
-  * Initial release
+  * Bump standards version
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Reinhard Tartler <siretart@tauware.de>  Fri, 28 Jul 2023 08:06:01 -0400
+
+golang-github-stefanberger-go-pkcs11uri (0.0~git20201008.78d3cae-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1011017)
+
+ -- Reinhard Tartler <siretart@tauware.de>  Sun, 15 May 2022 07:59:05 -0400
